@@ -1,1 +1,9 @@
-
+[
+  {
+    "id": "1",
+    "title": "Hikaru Nara",
+    "artist": "Goose House",
+    "audioUrl": "https://raw.githubusercontent.com/vengateshjv123-hub/music-app-data/refs/heads/main/anime-ost_shigatsu-wa-kimi-no-uso-opening-01-hikaru-nara-by-goose-house.mp3",
+    "posterUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/wp1848049.jpg?raw=true"
+  }
+]
