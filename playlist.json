@@ -2,8 +2,92 @@
   {
     "id": "1",
     "title": "Hikaru Nara",
-    "artist": "Goose House",
+    "artist": "Goose house",
     "audioUrl": "https://raw.githubusercontent.com/vengateshjv123-hub/music-app-data/refs/heads/main/anime-ost_shigatsu-wa-kimi-no-uso-opening-01-hikaru-nara-by-goose-house.mp3",
-    "posterUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/wp1848049.jpg?raw=true"
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/wp1848049.jpg?raw=true"
+  },
+  {
+    "id": "2",
+    "title": "Frangipanni",
+    "artist": "Kaber Vasuki",
+    "audioUrl": "https://github.com/vengateshjv123-hub/music-app-data/raw/main/ytmp3free.cc_frangipani-acoustic-youtubemp3free.org.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/frangipanni.jpg?raw=true"
+  },
+  {
+    "id": "3",
+    "title": "Kadhalikathey",
+    "artist": "HipHop Tamizha",
+    "audioUrl": "https://github.com/vengateshjv123-hub/music-app-data/raw/main/ytmp3free.cc_kadhalikathey-from-imaikkaa-nodigal-youtubemp3free.org.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/hR2pMKMq.jpg?raw=true"
+  },
+  {
+    "id": "4",
+    "title": "Vaadi Pulla Vaadi",
+    "artist": "HipHop Tamizha",
+    "audioUrl": "https://github.com/vengateshjv123-hub/music-app-data/raw/main/ytmp3free.cc_vaadi-pulla-vaadi-video-song-meesaya-murukku-hiphop-tamizha-vivek-sundarc-youtubemp3free.org.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/maxresdefault.jpg?raw=true"
+  },
+  {
+    "id": "5",
+    "title": "Attention",
+    "artist": "Charlie Puth",
+    "audioUrl": "https://github.com/vengateshjv123-hub/music-app-data/raw/main/ytmp3free.cc_charlie-puth-attention-official-video-youtubemp3free.org.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/raw/main/b2607a3762ba0d00f77f10281c313a2b.1000x1000x1.jpg"
+  },
+  {
+    "id": "6",
+    "title": "We Don't Talk Anymore",
+    "artist": "Charlie Puth",
+    "audioUrl": "https://github.com/vengateshjv123-hub/music-app-data/raw/main/ytmp3free.cc_charlie-puth-we-dont-talk-anymore-feat-selena-gomez-official-video-youtubemp3free.org.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/OIP.jpg?raw=true"
+  },
+  {
+    "id": "7",
+    "title": "Sakkarakatti",
+    "artist": "HipHop Tamizha",
+    "audioUrl": "https://github.com/vengateshjv123-hub/music-app-data/raw/main/ytmp3free.cc_meesaya-murukku-songs-sakkarakatti-video-song-hiphop-tamizha-aathmika-vivek-youtubemp3free.org.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/800x800cc.jpg?raw=true"
+  },
+  {
+    "id": "8",
+    "title": "Kalyani",
+    "artist": "ARJN x KDS x FIFTY4 x RONN",
+    "audioUrl": "https://github.com/vengateshjv123-hub/music-app-data/raw/main/ytmp3free.cc_kalyani-arjn-x-kds-x-fifty4-x-ronn-what-we-cookin-youtubemp3free.org.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/kalyani.jpg?raw=true"
+  },
+  {
+    "id": "9",
+    "title": "不可思議のカルテ",
+    "artist": "Mai Sakurajima (CV: Asami Seto)",
+    "audioUrl": "https://github.com/vengateshjv123-hub/music-app-data/raw/main/ytmp3free.cc_fukashigi-no-carte-full-ver-lyrics-youtubemp3free.org.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/raw/main/mai.jpg?raw=true"
+  },
+  {
+    "id": "10",
+    "title": "Vazhithunaiye",
+    "artist": "Sid Sriram",
+    "audioUrl": "https://github.com/vengateshjv123-hub/music-app-data/raw/main/ytmp3free.cc_vazhithunaiye-video-song-dragon-pradeep-ranganathan-kayadu-ashwath-marimuthu-leon-james-youtubemp3free.org.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/vazhithunaiye%20.jpg?raw=true"
+  },
+  {
+    "id": "11",
+    "title": "Pavalamalli",
+    "artist": "Sai Abhyankar",
+    "audioUrl": "https://github.com/vengateshjv123-hub/music-app-data/raw/main/ytmp3free.cc_saiabhyankkar-pavazha-malli-music-video-kayadu-shruti-haasan-vivek-thejo-think-indie-youtubemp3free.org.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/pavalamalli%20.jpg?raw=true"
+  },
+  {
+    "id": "12",
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "audioUrl": "https://github.com/vengateshjv123-hub/music-app-data/raw/main/ytmp3free.cc_ed-sheeran-perfect-official-music-video-youtubemp3free.org.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/perfect.jpg?raw=true"
+  },
+  {
+    "id": "13",
+    "title": "Kalyani with Shreya Goshal",
+    "artist": "ARJN x KDS x FIFTY4 x RONN x SHREYA GOSHAL",
+    "audioUrl": "https://github.com/vengateshjv123-hub/music-app-data/raw/main/ytmp3free.cc_kalyani-with-shreya-ghoshal-official-music-video-arjn-kds-fifty4-ronn-shreya-ghoshal-youtubemp3free.org.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/Kalyani(Shreya%20Ghoshal).jpg?raw=true"
   }
 ]
