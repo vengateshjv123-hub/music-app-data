@@ -124,5 +124,110 @@
     "artist": "Gentleman",
     "audioUrl": "https://archive.org/download/tamil-melody-hits/En-Veetu-Thotathil.mp3",
     "artUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Gentleman_1993_poster.jpg"
+  },
+  {
+    "id": "19",
+    "title": "Aaoromale",
+    "artist": "A.R. Rahman",
+    "audioUrl": "https://archive.org/download/tamil-melody-hits/Aaoromale.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/wp1848049.jpg?raw=true"
+  },
+  {
+    "id": "20",
+    "title": "Aaruyire",
+    "artist": "G.V. Prakash Kumar",
+    "audioUrl": "https://archive.org/download/tamil-melody-hits/Aaruyire.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/wp1848049.jpg?raw=true"
+  },
+  {
+    "id": "21",
+    "title": "Aathangara Orathil",
+    "artist": "Harris Jayaraj",
+    "audioUrl": "https://archive.org/download/tamil-melody-hits/Aathangara-Orathil.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/wp1848049.jpg?raw=true"
+  },
+  {
+    "id": "22",
+    "title": "Adhaaru Adhaaru",
+    "artist": "Harris Jayaraj",
+    "audioUrl": "https://archive.org/download/tamil-melody-hits/Adhaaru-Adhaaru.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/wp1848049.jpg?raw=true"
+  },
+  {
+    "id": "23",
+    "title": "Adiye",
+    "artist": "A.R. Rahman",
+    "audioUrl": "https://archive.org/download/tamil-melody-hits/Adiye.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/wp1848049.jpg?raw=true"
+  },
+  {
+    "id": "24",
+    "title": "Akkam Pakkam",
+    "artist": "G.V. Prakash Kumar",
+    "audioUrl": "https://archive.org/download/tamil-melody-hits/Akkam-Pakkam.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/wp1848049.jpg?raw=true"
+  },
+  {
+    "id": "25",
+    "title": "Amali Thumali",
+    "artist": "Harris Jayaraj",
+    "audioUrl": "https://archive.org/download/tamil-melody-hits/Amali-Thumali.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/wp1848049.jpg?raw=true"
+  },
+  {
+    "id": "26",
+    "title": "Anbe Sivam",
+    "artist": "Vidyasagar",
+    "audioUrl": "https://archive.org/download/tamil-melody-hits/Anbe-Sivam.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/wp1848049.jpg?raw=true"
+  },
+  {
+    "id": "27",
+    "title": "Asku Laska",
+    "artist": "Harris Jayaraj",
+    "audioUrl": "https://archive.org/download/tamil-melody-hits/Asku-Laska-MassTamilan.fm.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/wp1848049.jpg?raw=true"
+  },
+  {
+    "id": "28",
+    "title": "Aval Varuvala",
+    "artist": "S.A. Rajkumar",
+    "audioUrl": "https://archive.org/download/tamil-melody-hits/Aval-Varuvala-MassTamilan.com.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/wp1848049.jpg?raw=true"
+  },
+  {
+    "id": "29",
+    "title": "Ayyayo Nenju",
+    "artist": "G.V. Prakash Kumar",
+    "audioUrl": "https://archive.org/download/tamil-melody-hits/Ayyayo-Nenju.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/wp1848049.jpg?raw=true"
+  },
+  {
+    "id": "30",
+    "title": "Azhagiya Asura",
+    "artist": "Vidyasagar",
+    "audioUrl": "https://archive.org/download/tamil-melody-hits/Azhagiya-Asura-MassTamilan.com.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/wp1848049.jpg?raw=true"
+  },
+  {
+    "id": "31",
+    "title": "Devathayai Kanden",
+    "artist": "Yuvan Shankar Raja",
+    "audioUrl": "https://archive.org/download/tamil-melody-hits/Devathayai-Kanden.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/wp1848049.jpg?raw=true"
+  },
+  {
+    "id": "32",
+    "title": "Dhavanipotta Deepavali",
+    "artist": "Yuvan Shankar Raja",
+    "audioUrl": "https://archive.org/download/tamil-melody-hits/Dhavanipotta-Deepavali.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/wp1848049.jpg?raw=true"
+  },
+  {
+    "id": "33",
+    "title": "Enge Enathu Kavithai",
+    "artist": "A.R. Rahman",
+    "audioUrl": "https://archive.org/download/tamil-melody-hits/Enge-Enathu-Kavithai.mp3",
+    "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/wp1848049.jpg?raw=true"
   }
 ]
