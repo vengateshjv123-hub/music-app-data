@@ -90,4 +90,39 @@
     "audioUrl": "https://github.com/vengateshjv123-hub/music-app-data/raw/main/ytmp3free.cc_kalyani-with-shreya-ghoshal-official-music-video-arjn-kds-fifty4-ronn-shreya-ghoshal-youtubemp3free.org.mp3",
     "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/Kalyani(Shreya%20Ghoshal).jpg?raw=true"
   }
+  {
+    "id": "14",
+    "title": "Adada Mazhaida",
+    "artist": "Paiyaa",
+    "audioUrl": "https://archive.org/download/tamil-melody-hits/Adada-Mazhaida.mp3",
+    "artUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Paiyaa_poster.jpg"
+  },
+  {
+    "id": "15",
+    "title": "Danga Maari Oodhari",
+    "artist": "Anegan",
+    "audioUrl": "https://archive.org/download/tamil-melody-hits/Danga-Maari-Oodhari.mp3",
+    "artUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Anegan_Poster.jpg"
+  },
+  {
+    "id": "16",
+    "title": "Elangaathu Veesudhey",
+    "artist": "Pithamagan",
+    "audioUrl": "https://archive.org/download/tamil-melody-hits/Elangaathu-Veesudhey.mp3",
+    "artUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pithamagan.jpg"
+  },
+  {
+    "id": "17",
+    "title": "Azhagiya Theeye",
+    "artist": "Minnale",
+    "audioUrl": "https://archive.org/download/tamil-melody-hits/Azhagiya-Theeye.mp3",
+    "artUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Minnale_poster.jpg"
+  },
+  {
+    "id": "18",
+    "title": "En Veetu Thotathil",
+    "artist": "Gentleman",
+    "audioUrl": "https://archive.org/download/tamil-melody-hits/En-Veetu-Thotathil.mp3",
+    "artUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Gentleman_1993_poster.jpg"
+  }
 ]
