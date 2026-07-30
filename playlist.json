@@ -91,143 +91,123 @@
     "artUrl": "https://github.com/vengateshjv123-hub/music-app-data/blob/main/Kalyani(Shreya%20Ghoshal).jpg?raw=true"
   },
   {
-    "id": "14",
-    "title": "Adada Mazhaida",
-    "artist": "Yuvan Shankar Raja (Paiyaa)",
-    "audioUrl": "https://archive.org/download/tamil-melody-hits/Adada-Mazhaida.mp3",
-    "artUrl": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/2/23/Paiyaa_poster.jpg"
+  "id": "14",
+  "title": "Adada Mazhaida",
+  "artist": "Yuvan Shankar Raja (Paiyaa)",
+  "artUrl": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/2/23/Paiyaa_poster.jpg"
   },
   {
     "id": "15",
     "title": "Danga Maari Oodhari",
     "artist": "Harris Jayaraj (Anegan)",
-    "audioUrl": "https://archive.org/download/tamil-melody-hits/Danga-Maari-Oodhari.mp3",
     "artUrl": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/b/b5/Anegan_Poster.jpg"
   },
   {
     "id": "16",
     "title": "Elangaathu Veesudhey",
     "artist": "Ilaiyaraaja (Pithamagan)",
-    "audioUrl": "https://archive.org/download/tamil-melody-hits/Elangaathu-Veesudhey.mp3",
     "artUrl": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/9/91/Pithamagan.jpg"
   },
   {
     "id": "17",
     "title": "Azhagiya Theeye",
     "artist": "Harris Jayaraj (Minnale)",
-    "audioUrl": "https://archive.org/download/tamil-melody-hits/Azhagiya-Theeye.mp3",
     "artUrl": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/2/22/Minnale_poster.jpg"
   },
   {
     "id": "18",
     "title": "En Veetu Thotathil",
     "artist": "A.R. Rahman (Gentleman)",
-    "audioUrl": "https://archive.org/download/tamil-melody-hits/En-Veetu-Thotathil.mp3",
     "artUrl": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/3/30/Gentleman_1993_poster.jpg"
   },
   {
     "id": "19",
     "title": "Aaoromale",
     "artist": "A.R. Rahman (Vinnaithaandi Varuvaayaa)",
-    "audioUrl": "https://archive.org/download/tamil-melody-hits/Aaoromale.mp3",
     "artUrl": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/e/eb/Vinnaithaandi_Varuvaayaa_poster.jpg"
   },
   {
     "id": "20",
     "title": "Aaruyire",
     "artist": "G.V. Prakash Kumar (Madrasapattinam)",
-    "audioUrl": "https://archive.org/download/tamil-melody-hits/Aaruyire.mp3",
     "artUrl": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/e/ed/Madrasapattinam.jpg"
   },
   {
     "id": "21",
     "title": "Aathangara Orathil",
     "artist": "Harris Jayaraj (Yaan)",
-    "audioUrl": "https://archive.org/download/tamil-melody-hits/Aathangara-Orathil.mp3",
     "artUrl": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/a/a9/Yaan_film_poster.jpg"
   },
   {
     "id": "22",
     "title": "Adhaaru Adhaaru",
     "artist": "Harris Jayaraj (Yennai Arindhaal)",
-    "audioUrl": "https://archive.org/download/tamil-melody-hits/Adhaaru-Adhaaru.mp3",
     "artUrl": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/fc/Yennai_Arindhaal.jpg"
   },
   {
     "id": "23",
     "title": "Adiye",
     "artist": "A.R. Rahman (Kadal)",
-    "audioUrl": "https://archive.org/download/tamil-melody-hits/Adiye.mp3",
     "artUrl": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/8/87/Kadal_poster.jpg"
   },
   {
     "id": "24",
     "title": "Akkam Pakkam",
     "artist": "G.V. Prakash Kumar (Kireedam)",
-    "audioUrl": "https://archive.org/download/tamil-melody-hits/Akkam-Pakkam.mp3",
     "artUrl": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/7/75/Kireedam_Tamil_poster.jpg"
   },
   {
     "id": "25",
     "title": "Amali Thumali",
     "artist": "Harris Jayaraj (Ko)",
-    "audioUrl": "https://archive.org/download/tamil-melody-hits/Amali-Thumali.mp3",
     "artUrl": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/f/f6/Ko_poster.jpg"
   },
   {
     "id": "26",
     "title": "Anbe Sivam",
     "artist": "Vidyasagar (Anbe Sivam)",
-    "audioUrl": "https://archive.org/download/tamil-melody-hits/Anbe-Sivam.mp3",
     "artUrl": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/2/25/Anbe_Sivam_Poster.jpg"
   },
   {
     "id": "27",
     "title": "Asku Laska",
     "artist": "Harris Jayaraj (Nanban)",
-    "audioUrl": "https://archive.org/download/tamil-melody-hits/Asku-Laska-MassTamilan.fm.mp3",
     "artUrl": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/1/1d/Nanban_poster.jpg"
   },
   {
     "id": "28",
     "title": "Aval Varuvala",
     "artist": "S.A. Rajkumar (Aval Varuvala)",
-    "audioUrl": "https://archive.org/download/tamil-melody-hits/Aval-Varuvala-MassTamilan.com.mp3",
     "artUrl": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/b/ba/Aval_Varuvaala.jpg"
   },
   {
     "id": "29",
     "title": "Ayyayo Nenju",
     "artist": "G.V. Prakash Kumar (Aadukalam)",
-    "audioUrl": "https://archive.org/download/tamil-melody-hits/Ayyayo-Nenju.mp3",
     "artUrl": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/c/c9/Aadukalam_poster.jpg"
   },
   {
     "id": "30",
     "title": "Azhagiya Asura",
     "artist": "Vidyasagar (Whistle)",
-    "audioUrl": "https://archive.org/download/tamil-melody-hits/Azhagiya-Asura-MassTamilan.com.mp3",
     "artUrl": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/7/7b/Whistle_%282003_film%29_poster.jpg"
   },
   {
     "id": "31",
     "title": "Devathayai Kanden",
     "artist": "Yuvan Shankar Raja (Kadhal Kondein)",
-    "audioUrl": "https://archive.org/download/tamil-melody-hits/Devathayai-Kanden.mp3",
     "artUrl": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/2/2d/Kadhal_Kondein_poster.jpg"
   },
   {
     "id": "32",
     "title": "Dhavanipotta Deepavali",
     "artist": "Yuvan Shankar Raja (Sandakozhi)",
-    "audioUrl": "https://archive.org/download/tamil-melody-hits/Dhavanipotta-Deepavali.mp3",
     "artUrl": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/b/bc/Sandakozhi_poster.jpg"
   },
   {
     "id": "33",
     "title": "Enge Enathu Kavithai",
     "artist": "A.R. Rahman (Kandukondain Kandukondain)",
-    "audioUrl": "https://archive.org/download/tamil-melody-hits/Enge-Enathu-Kavithai.mp3",
     "artUrl": "https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/en/c/cb/Kandukondain_Kandukondain.jpg"
   }
 ]
